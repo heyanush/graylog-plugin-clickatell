@@ -27,7 +27,7 @@ DEB and RPM packages can be built with `mvn jdeb:jdeb` and `mvn rpm:rpm` respect
 Getting started
 ---------------
 
-This project is using Maven 3 and requires Java 7 or higher.
+This project is using Maven 3 and requires Java 8 or higher.
 
 * Clone this repository.
 * Run `mvn package` to build a JAR file.
