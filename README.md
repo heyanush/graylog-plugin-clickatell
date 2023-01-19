@@ -38,8 +38,13 @@ This project is using Maven 3 and requires Java 8 or higher.
 Resources
 ---------------
 https://github.com/graylog-labs/graylog-plugin-twiliosms
+
 https://bitbucket.org/proximus/smseagle-graylog/src/master/
+
 https://github.com/Graylog2/graylog-plugin-sample
+
 https://github.com/Graylog2/graylog-plugin-integrations
+
 https://github.com/graylog-labs/graylog-plugin-slack
+
 https://github.com/Graylog2/docker-compose
